@@ -38,6 +38,6 @@ Hayır, script yalnızca dosyalarınızın bir kopyasını oluşturur. Orijinall
 3. Hedef dizini değiştirebilir miyim?
 Tabii ki! Yukarıdaki kodda TARGET_DIR kısmını istediğiniz bir klasöre göre düzenleyebilirsiniz.
 
-Hepsi bu kadar! Umarım bu araç size yardımcı olur. Eğer takıldığınız bir yer olursa, yorumlarda bana ulaşabilirsiniz.
+
 
 Not: Bu script, doğru bir şekilde kullanıldığında sorunsuz çalışacaktır. Ancak, düzenleme veya kullanım hatalarından kaynaklanabilecek veri kaybı ya da diğer sorunlar tamamen kullanıcının sorumluluğundadır. Bu yüzden, işlemlere başlamadan önce önemli verilerinizin yedeğini almayı unutmayın. Scriptin çalışma süresi; fotoğrafların sayısına, dosya boyutlarına ve bilgisayarınızın işlem gücüne bağlı olarak değişiklik gösterebilir. Büyük dosyalar ve daha fazla fotoğraf, işlem süresini uzatabilir, bu nedenle sabırlı olmanızı öneririz.
